@@ -20,3 +20,45 @@ main {
 footer {
     font-size: 0.8em;
 }
+
+/* Estilo para el formulario */
+form {
+    margin-bottom: 2em;
+    display: flex;
+    gap: 1em;
+}
+
+form input, form button {
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+/* Formulario de registro */
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    margin-bottom: 2em;
+}
+
+form input, form select, form button {
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+/* Estilo para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    text-align: left;
+}
+
+table th {
+    background-color: #f4f4f4;
+}

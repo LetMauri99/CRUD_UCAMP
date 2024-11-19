@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Aplicación CRUD
 
 Este proyecto implementa las operaciones CRUD (Crear, Leer, Actualizar y Borrar) utilizando:
