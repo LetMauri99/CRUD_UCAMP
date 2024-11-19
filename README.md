@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Aplicación CRUD
 
 Este proyecto implementa las operaciones CRUD (Crear, Leer, Actualizar y Borrar) utilizando:
@@ -26,7 +27,3 @@ Crear una aplicación funcional que permita:
 
 - Navegador web moderno
 - Acceso a GitHub Pages
-=======
-# CRUD_UCAMP
-Proyecto Crud para Bootcamp Ucamp
->>>>>>> e05afd291da0c01f8dcce86a87041e83902c2181
