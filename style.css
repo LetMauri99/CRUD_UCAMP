@@ -3,7 +3,12 @@ body {
     margin: 0;
     background-color: #f4f4f4;
     color: #333;
+    display: flex;
+    min-height: 100vh; 
+    flex-direction: column;
 }
+
+
 
 header {
     background-color: #007bff;
@@ -21,6 +26,7 @@ main {
     padding: 2em;
     max-width: 800px;
     margin: 0 auto;
+    flex: 1;
 }
 
 section {
